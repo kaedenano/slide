@@ -18,7 +18,6 @@ outputs = ["Reveal"]
 </style>
 
 # Spotify Stats
-### Spotifyの統計共有サイト
 
 ---
 ## 概要
