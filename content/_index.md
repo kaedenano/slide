@@ -18,7 +18,7 @@ outputs = ["Reveal"]
 </style>
 
 # Spotify Stats
-### Team Ras
+### Spotifyの統計共有サイト
 
 ---
 ## 概要
