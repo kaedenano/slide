@@ -19,6 +19,14 @@ outputs = ["Reveal"]
 
 # Spotify Stats
 ### Team Ras
+
+---
+
+## メンバー
+- 中川(フロントエンド，バックエンド，デザイン)
+- 鍬田(バックエンド)
+- 加本(資料作成，サポート)
+
 ---
 
 <img src="https://storage.googleapis.com/spotifynewsroom-jp.appspot.com/1/2020/12/Spotify_Logo_CMYK_Green.png" style="border:none;box-shadow:none;">
