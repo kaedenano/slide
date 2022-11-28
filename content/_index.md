@@ -18,30 +18,15 @@ outputs = ["Reveal"]
 </style>
 
 # Spotify Stats
-
+### Team Ras
 ---
+
 ## 概要
 <img src='stats.png' width="30%">
 
 ---
 
 <img src='stats2.png' width="80%">
-
----
-## 制作の経緯
-
-<img src='books.png' width="40%">
-
----
-
-<img src='books2.png' width="40%">
-
----
-## 公式の機能の問題点
- - 年に1回しか見ることができない
- - アプリからしか見られない
- - 共有の手段に乏しい
- - 情報が多くない
 
 ---
 
@@ -53,6 +38,24 @@ outputs = ["Reveal"]
 - ランキング上位曲のキーの最頻値
 - 曲が持つユーザー属性
 - 上記データとトップチャートのデータを比較
+
+---
+## 制作の経緯
+
+<img src='books.png' width="40%">
+
+---
+
+<img src='books2.png' width="40%">
+
+---
+
+## 公式の機能の問題点
+ - 年に1回しか見ることができない
+ - アプリからしか見られない
+ - 共有の手段に乏しい
+ - 情報が多くない
+
 ---
 
 ## 使用技術
