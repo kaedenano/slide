@@ -21,6 +21,9 @@ outputs = ["Reveal"]
 ### Team Ras
 ---
 
+<img src="https://storage.googleapis.com/spotifynewsroom-jp.appspot.com/1/2020/12/Spotify_Logo_CMYK_Green.png" style="border:none;box-shadow:none;">
+
+---
 ## 概要
 <img src='stats.png' width="30%">
 
