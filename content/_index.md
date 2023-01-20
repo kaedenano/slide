@@ -16,6 +16,7 @@ outputs = ["Reveal"]
     font-size: 2em;
   }
 </style>
+<!-- <section data-background-color="rgb(70, 70, 255)"> -->
 
 # Spotify Stats
 ### Team Ras
@@ -33,23 +34,17 @@ outputs = ["Reveal"]
   - 資料作成
 ---
 
-<img src="https://storage.googleapis.com/spotifynewsroom-jp.appspot.com/1/2020/12/Spotify_Logo_CMYK_Green.png" style="border:none;box-shadow:none;">
-
----
-## 概要
----
-
-<img src='screenshot_1.png' width="100%">
+<img src="https://storage.googleapis.com/spotifynewsroom-jp.appspot.com/1/2020/12/Spotify_Logo_RGB_Green.png" style="border:none; box-shadow:none;background-color: transparent">
 
 ---
 
 ## 制作の経緯
 
-<img src='books.png' width="40%">
+<img src='books.png' width="40%" style="border:none; box-shadow:none; background-color: transparent">
 
 ---
 
-<img src='books2.png' width="40%">
+<img src='books2.png' width="40%" style="border:none; box-shadow:none; background-color: transparent" >
 
 ---
 
@@ -60,13 +55,17 @@ outputs = ["Reveal"]
 
 ---
 
-## 使用技術
+<!-- ## 使用技術
 - TypeScript
 - Next.js(React)
 - Prisma
 - Vercel
 - PlanetScale
-- Chakra UI
+- Chakra UI -->
+
+
+<img src="stack.png" width='50%' style="border:none; box-shadow:none; background-color: transparent" />
+
 
 ---
 
@@ -80,3 +79,5 @@ outputs = ["Reveal"]
 ご清聴ありがとうございました.
 
 ---
+
+<!-- </section> -->
