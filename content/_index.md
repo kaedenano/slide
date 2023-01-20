@@ -64,7 +64,7 @@ outputs = ["Reveal"]
 - Chakra UI -->
 
 
-<img src="stack.png" width='50%' style="border:none; box-shadow:none; background-color: transparent" />
+<img src="stack.png" width='60%' style="border:none; box-shadow:none; background-color: transparent" />
 
 
 ---
@@ -74,10 +74,4 @@ outputs = ["Reveal"]
 - フレームワークの学習コスト
 - DBの選定
 
---- 
-
-ご清聴ありがとうございました.
-
 ---
-
-<!-- </section> -->
